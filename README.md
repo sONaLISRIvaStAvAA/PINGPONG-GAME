@@ -2,6 +2,8 @@
 
 A fun, 2-player reaction game built on an Arduino Uno. This project features an LCD scoreboard, adjustable game speed, and 8-bit sound effects. It was built and simulated entirely in Tinkercad.
 
+<img width="1215" height="519" alt="image" src="https://github.com/user-attachments/assets/4e43813e-19bb-4b61-9eab-8e300976afa8" />
+
 <img width="660" height="513" alt="image" src="https://github.com/user-attachments/assets/0410c6de-5ef9-44cd-8a00-dc98fda1319a" />
 
 
