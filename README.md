@@ -2,7 +2,8 @@
 
 A fun, 2-player reaction game built on an Arduino Uno. This project features an LCD scoreboard, adjustable game speed, and 8-bit sound effects. It was built and simulated entirely in Tinkercad.
 
-!(schematic.png)
+<img width="660" height="513" alt="image" src="https://github.com/user-attachments/assets/0410c6de-5ef9-44cd-8a00-dc98fda1319a" />
+
 
 ## 🚀 Features
 
@@ -19,8 +20,8 @@ A fun, 2-player reaction game built on an Arduino Uno. This project features an 
 * 5x LEDs (for the "ball")
 * 2x Pushbuttons (for the "paddles")
 * 1x Piezo Buzzer
-* 1x 10k$\Omega$ Potentiometer (for speed control)
-* 5x 220$\Omega$ Resistors (for the LEDs)
+* 1x 10kohm Potentiometer (for speed control)
+* 5x 220ohm Resistors (for the LEDs)
 * 1x Breadboard
 * Jumper Wires
 
@@ -39,8 +40,6 @@ A fun, 2-player reaction game built on an Arduino Uno. This project features an 
 
 1.  Open the [Tinkercad Project](https) (<- **Suggestion:** Make your Tinkercad project public and paste the link here).
 2.  Click the "Start Simulation" button.
-
-
     LiquidCrystal_I2C lcd(0x27, 16, 2); 
     ```
 4.  **Upload:** Connect your Arduino and upload the sketch.
