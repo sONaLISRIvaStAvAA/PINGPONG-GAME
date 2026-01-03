@@ -1,4 +1,4 @@
-# Arduino 2-Player Ping Pong Game
+# AIR BLING- Arduino 2-Player Ping Pong Game
 
 A fun, 2-player reaction game built on an Arduino Uno. This project features an LCD scoreboard, adjustable game speed, and 8-bit sound effects. It was built and simulated entirely in Tinkercad.
 
